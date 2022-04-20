@@ -2,6 +2,10 @@
 
 int main() 
 { 
-  std::cout << "Hello world!" << std::endl;
+  int a = 6;
+  if (a > 0) 
+  {
+    std::cout << "Hello world!" << std::endl;
+  }
   return 0;
 }
