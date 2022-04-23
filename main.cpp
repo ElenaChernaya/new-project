@@ -2,10 +2,11 @@
 
 int main() 
 { 
-  int a = 6;
-  if (a > 0) 
-  {
-    std::cout << "Hello world!" << std::endl;
-  }
+  int a = 4;
+  int b = 4;
+
+  //Что будет выведено в консоль?
+  std::cout << a << "+" << b << std::endl;
+  
   return 0;
 }
