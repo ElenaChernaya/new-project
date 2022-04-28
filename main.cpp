@@ -1,5 +1,16 @@
 #include <iostream>
 
+class Traincar
+        {
+            int passengers = 0;
+            int passengersMax = 0;
+
+            Traincar()
+            {
+                
+            }
+        };
+
 int main() 
 
 { 
