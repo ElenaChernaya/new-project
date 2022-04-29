@@ -9,6 +9,8 @@ class Traincar
             {
                 
             }
+
+            ~Traincar() {}
         };
 
 int main() 
