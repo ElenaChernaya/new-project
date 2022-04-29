@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 class Traincar
         {
             int passengers = 0;
@@ -9,9 +10,8 @@ class Traincar
             {
                 
             }
-
-            ~Traincar() {}
         };
+
 
 int main() 
 
